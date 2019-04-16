@@ -1,0 +1,338 @@
+[
+    {
+      "weather_id": 1,
+      "location": "Istanbul",
+      "image": "5.png",
+      "day": "Today",
+      "weatherCondition": "Sunny Showers",
+      "currentTemperature": 32,
+      "maximumTemperature": 60,
+      "minimumTemperature": 23,
+      "currentCondition": "Raining Currently",
+      "weatherSummary": "Bring a coat & boots today. Prepare for cold temperatures and rain.",
+      "days": [
+            {
+            "dayOfWeek": "Monday",
+            "image": "5.png",
+            "weatherCondition": "Sunny Showers",
+            "currentTemperature": 32,
+            "day": "Today"
+            },
+            {
+            "dayOfWeek": "Tuesday",
+            "image": "2.png",
+            "weatherCondition": "Thunderstorm",
+            "currentTemperature": 24,
+            "day": "Today"
+            },
+            {
+            "dayOfWeek": "Wednesday",
+            "image": "3.png",
+            "weatherCondition": "Snow",
+            "currentTemperature": 32,
+            "day": "Today"
+            },
+            {
+            "dayOfWeek": "Thursday",
+            "image": "4.png",
+            "weatherCondition": "Sunny Skies",
+            "currentTemperature": 36,
+            "day": "Today"
+            },
+            {
+            "dayOfWeek": "Friday",
+            "image": "3.png",
+            "weatherCondition": "Little Showers",
+            "currentTemperature": 32,
+            "day": "Today"
+            },
+            {
+            "dayOfWeek": "Saturday",
+            "image": "2.png",
+            "weatherCondition": "Snow",
+            "currentTemperature": 30,
+            "day": "Today"
+            }
+        ]
+    },
+    {
+      "weather_id": 2,
+      "location": "Berlin",
+      "image": "2.png",
+      "day": "Today",
+      "weatherCondition": "Sunny Showers",
+      "currentTemperature": 32,
+      "maximumTemperature": 60,
+      "minimumTemperature": 23,
+      "currentCondition": "Raining Currently",
+      "weatherSummary": "Bring a coat & boots today. Prepare for cold temperatures and rain.",
+      "days": [
+        {
+        "dayOfWeek": "Monday",
+        "image": "5.png",
+        "weatherCondition": "Sunny Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Tuesday",
+        "image": "2.png",
+        "weatherCondition": "Thunderstorm",
+        "currentTemperature": 24,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Wednesday",
+        "image": "3.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Thursday",
+        "image": "4.png",
+        "weatherCondition": "Sunny Skies",
+        "currentTemperature": 36,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Friday",
+        "image": "3.png",
+        "weatherCondition": "Little Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Saturday",
+        "image": "2.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 30,
+        "day": "Today"
+        }
+        ]
+    },
+    {
+      "weather_id": 3,
+      "location": "London",
+      "image": "3.png",
+      "day": "Today",
+      "weatherCondition": "Rainy",
+      "currentTemperature": 36,
+      "maximumTemperature": 60,
+      "minimumTemperature": 23,
+      "currentCondition": "Raining Currently",
+      "weatherSummary": "Bring a coat & boots today. Prepare for cold temperatures and rain.",
+      "days": [
+        {
+        "dayOfWeek": "Monday",
+        "image": "5.png",
+        "weatherCondition": "Sunny Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Tuesday",
+        "image": "2.png",
+        "weatherCondition": "Thunderstorm",
+        "currentTemperature": 24,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Wednesday",
+        "image": "3.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Thursday",
+        "image": "4.png",
+        "weatherCondition": "Sunny Skies",
+        "currentTemperature": 36,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Friday",
+        "image": "3.png",
+        "weatherCondition": "Little Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Saturday",
+        "image": "2.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 30,
+        "day": "Today"
+        }
+    ]
+    },
+    {
+      "weather_id": 4,
+      "location": "Helsinki",
+      "image": "2.png",
+      "day": "Today",
+      "weatherCondition": "Thunderstorm",
+      "currentTemperature": 36,
+      "maximumTemperature": 62,
+      "minimumTemperature": 23,
+      "currentCondition": "Raining Currently",
+      "weatherSummary": "Bring a coat & boots today. Prepare for cold temperatures and rain.",
+      "days": [
+        {
+        "dayOfWeek": "Monday",
+        "image": "5.png",
+        "weatherCondition": "Sunny Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Tuesday",
+        "image": "2.png",
+        "weatherCondition": "Thunderstorm",
+        "currentTemperature": 24,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Wednesday",
+        "image": "3.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Thursday",
+        "image": "4.png",
+        "weatherCondition": "Sunny Skies",
+        "currentTemperature": 36,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Friday",
+        "image": "3.png",
+        "weatherCondition": "Little Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Saturday",
+        "image": "2.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 30,
+        "day": "Today"
+        }
+    ]
+    },
+    {
+      "weather_id": 5,
+      "location": "Dublin",
+      "image": "3.png",
+      "day": "Today",
+      "weatherCondition": "Thunderstorm",
+      "currentTemperature": 36,
+      "maximumTemperature": 60,
+      "minimumTemperature": 23,
+      "currentCondition": "Raining Currently",
+      "weatherSummary": "Bring a coat & boots today. Prepare for cold temperatures and rain.",
+      "days": [
+        {
+        "dayOfWeek": "Monday",
+        "image": "5.png",
+        "weatherCondition": "Sunny Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Tuesday",
+        "image": "2.png",
+        "weatherCondition": "Thunderstorm",
+        "currentTemperature": 24,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Wednesday",
+        "image": "3.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Thursday",
+        "image": "4.png",
+        "weatherCondition": "Sunny Skies",
+        "currentTemperature": 36,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Friday",
+        "image": "3.png",
+        "weatherCondition": "Little Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Saturday",
+        "image": "2.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 30,
+        "day": "Today"
+        }
+    ]
+    },
+    {
+      "weather_id": 6,
+      "location": "Vancouver",
+      "image": "4.png",
+      "day": "Today",
+      "weatherCondition": "Thunderstorm",
+      "currentTemperature": 36,
+      "maximumTemperature": 60,
+      "minimumTemperature": 23,
+      "currentCondition": "Raining Currently",
+      "weatherSummary": "Bring a coat & boots today. Prepare for cold temperatures and rain.",
+      "days": [
+        {
+        "dayOfWeek": "Monday",
+        "image": "5.png",
+        "weatherCondition": "Sunny Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Tuesday",
+        "image": "2.png",
+        "weatherCondition": "Thunderstorm",
+        "currentTemperature": 24,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Wednesday",
+        "image": "3.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Thursday",
+        "image": "4.png",
+        "weatherCondition": "Sunny Skies",
+        "currentTemperature": 36,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Friday",
+        "image": "3.png",
+        "weatherCondition": "Little Showers",
+        "currentTemperature": 32,
+        "day": "Today"
+        },
+        {
+        "dayOfWeek": "Saturday",
+        "image": "2.png",
+        "weatherCondition": "Snow",
+        "currentTemperature": 30,
+        "day": "Today"
+        }
+    ]
+    }
+  ]
